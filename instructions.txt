@@ -1,5 +1,6 @@
 REMINDER
 ========
   1.) Logo
-  2.) Color Scheme
+  2.) Color Combinations from Colorcombos.com
   3.) Information Structure
+  4.) Stakeholders
